@@ -1,0 +1,22 @@
+body {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: salmon;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+p, ul, ol {
+    text-align: justify;
+    color: darkblue;
+    background-color: darkgray;
+}
